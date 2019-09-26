@@ -120,10 +120,9 @@ const char *const FM_VERSION_PROP = "vendor.hw.fm.version";
 const char *const FM_INIT_PROP = "vendor.hw.fm.init";
 const char *const FM_INTERNAL_ANTENNA_PROP = "vendor.hw.fm.internal_antenna";
 const char *const SCRIPT_START_PROP = "ctl.start";
-const char *const FM_SOC_DL_SCRIPT = "fm_dl";
 const char *const SCRIPT_STOP_PROP = "ctl.stop";
 const char *const CALIB_DATA_NAME = "/data/misc/fm/Riva_fm_cal";
-const char *const SOC_PATCH_DL_SCRPT = "fm_dl";
+const char *const SOC_PATCH_DL_SCRPT = "vendor.fm";
 const char *const FM_DEVICE_PATH = "/dev/radio0";
 const char *const FM_PERFORMANCE_PARAMS = "/etc/fm/fm_srch_af_th.conf";
 
