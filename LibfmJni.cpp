@@ -31,7 +31,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #include <jni.h>
 #include <nativehelper/JNIHelp.h>
-#include "android_runtime/AndroidRuntime.h"
 #include <utils/Log.h>
 #include "FmRadioController.h"
 #include "FM_Const.h"
